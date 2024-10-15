@@ -1,2 +1,2 @@
-# Notepad Python3Qt5
+# Notepad Python3 GUI App Qt5
 
